@@ -1,0 +1,45 @@
+
+/*
+  forest green: #1B4332
+  light sage: #D4E8C2
+  light orange: #FFD6A5
+  white: #FFFFFF
+*/
+
+body {
+    background-color: #1B4332;
+    color: #FFFFFF;
+    padding: 30px;
+}
+
+h1, h2 {
+    color: #D4E8C2;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 3px solid #FFD6A5;
+    padding: 10px;
+}
+
+a {
+    color: #D4E8C2;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FFD6A5;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
