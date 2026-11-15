@@ -1,0 +1,53 @@
+/*
+  white: #FFFFFF
+  dark purple: #4B2673 (weber color lol)
+  dark orange: #8A3B12
+*/
+
+h1, h2, h3 {
+  color: #4b2673;
+}
+
+h1{
+  text-align: center;
+}
+
+th, td {
+  border: 3px solid #8A3B12;
+  padding: 10px;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+a {
+  color: #4B2673;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8A3B12;
+}
+
+.text-box{
+  background-color: #4B2673;
+  color: white;
+  width:400px;
+  padding: 30px;
+  border: 5px dashed #8A3B12;
+  margin: 40px;
+}
+
+.image-box {
+  background-color: #4B2673;
+  width: 646px;
+  padding: 30px;
+  border: 8px double #8A3B12;
+  margin: 40px;
+}
+
+body{
+  padding: 30px;
+}
